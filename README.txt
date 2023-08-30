@@ -1,1 +1,1 @@
-내 첫 git사용 수정함
+my first git commit
